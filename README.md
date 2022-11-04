@@ -1,5 +1,5 @@
 # bit01html
-##Descripcion
+## Descripcion
 Tarea nro. 2 yourself
-###Autor
+## Autor
 [Vanessa] (https://www.linkedin.com/in/vanessa-robles-silva-b6732171/)
